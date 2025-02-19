@@ -1,0 +1,13 @@
+we aim to make a deep learning model which can detect brain tumors in the brain with high accuracy
+firstly make the front end of the model using react 
+the front end must have a box for image selection and have a drag and drop image feature.
+the page must be responsive to 
+add a dynamic navbar
+add three pages
+1. Home page
+2. About page 
+3. Team page
+now, start working on the model
+use tensorflow, keras and vgg19 API to make the model
+make the backend model using flask
+link the frontend and backend using flask CORS
